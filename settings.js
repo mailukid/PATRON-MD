@@ -5,7 +5,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
-global.antispam = false//auto kick spammer (true to on, false to off)
+global.antispam = true//auto kick spammer (true to on, false to off)
 //===============SETTING MENU==================\\
 var _0x6e9f5f = _0x440c;
 function _0x440c(_0xff7e8a, _0x55b825) {
@@ -28,7 +28,7 @@ function _0x440c(_0xff7e8a, _0x55b825) {
   }
 }(_0x5356, 611392), global[_0x6e9f5f(400)] = fs[_0x6e9f5f(406)](_0x6e9f5f(414)), global.ig = _0x6e9f5f(408), global.yt = _0x6e9f5f(398), global.ttowner = "justt.patron", global[_0x6e9f5f(402)] = _0x6e9f5f(396), global[_0x6e9f5f(407)] = [_0x6e9f5f(395)], global[_0x6e9f5f(410)] = _0x6e9f5f(395), global.socialm = "GitHub: Itzpatron", global.location = _0x6e9f5f(413));
 function _0x5356() {
-  var _0x2d608b = ["2TiYyRi", "ownername", "4848248JOyFIO", "10285nogbjK", "24551hmyaFj", "readFileSync", "owner", "justt.patron", "4122452LsfHwQ", "ownernomer", "3122538rKjRfI", "13069737fNnLij", "Nigeria", "./data/image/thumb.jpg", "2348133729715", "PATRON 🚹", "996yvEvRn", "Itzpatron1", "7569156ZVpYsb", "thumbnail"];
+  var _0x2d608b = ["2TiYyRi", "ownername", "vickymkoloni", "vicky", "24551hmyaFj", "readFileSync", "owner", "justt.patron", "4122452LsfHwQ", "ownernomer", "3122538rKjRfI", "13069737fNnLij", "Nigeria", "./data/image/thumb.jpg", "2348133729715", "PATRON 🚹", "996yvEvRn", "Itzpatron1", "7569156ZVpYsb", "thumbnail"];
   _0x5356 = function () {
     return _0x2d608b;
   };
@@ -46,7 +46,7 @@ function _0xe1c6(_0x488713, _0x4b148) {
   }, _0xe1c6(_0x488713, _0x4b148);
 }
 function _0x8e09() {
-  var _0x15a2b3 = ["ownerNumber", "2348133729715", "1042636teAGzd", "wagc", "websitex", "botnumber", "Sticker created by", "2348133729715@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
+  var _0x15a2b3 = ["ownerNumber", "254734914754", "1042636teAGzd", "wagc", "websitex", "botnumber", "Sticker created by", "2348133729715@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
   _0x8e09 = function () {
     return _0x15a2b3;
   };
@@ -190,7 +190,7 @@ global.rpg = {
 }
 
 //new
-global.prefix = ['!','.','#','&']
+global.prefix = [v]
 global.sessionName = 'session'
 global.hituet = 0
 //media target
